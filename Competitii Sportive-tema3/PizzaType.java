@@ -1,0 +1,7 @@
+
+public enum PizzaType {
+
+	CAPRICCIOSA,QUATROSTAGIONI,DIAVOLA,VEGETARIANA
+	
+
+}
