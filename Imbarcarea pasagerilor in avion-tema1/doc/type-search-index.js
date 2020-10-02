@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Bilete","l":"Family"},{"p":"Bilete","l":"Group"},{"p":"Bilete","l":"Passenger"},{"p":"Bilete","l":"Person"},{"p":"Bilete","l":"Queue"},{"p":"Bilete","l":"Single"},{"p":"Bilete","l":"Test"}]
